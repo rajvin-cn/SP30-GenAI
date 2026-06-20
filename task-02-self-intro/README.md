@@ -38,6 +38,36 @@ I joined because I want to gain a deeper, end-to-end understanding of the Genera
 
 ---
 
+## AI Development Environment Setup
+
+My local environment is fully configured for AI and GenAI development:
+
+| Component | Tool / Technology |
+|---|---|
+| **OS** | Linux (WSL2) |
+| **IDE** | Visual Studio Code |
+| **AI Coding Assistant** | Claude (Anthropic) |
+| **Python Environment** | Python virtual environments (`venv`) |
+| **AI / LLM Framework** | LangChain |
+
+### Setup Details
+
+**VS Code** is my primary editor, used with the Python extension for development and debugging. All AI projects run inside isolated **Python virtual environments** to keep dependencies clean and reproducible:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install langchain
+```
+
+**Claude** is used as my AI coding assistant throughout development — for code generation, debugging, and exploring GenAI concepts interactively.
+
+**LangChain** is the core framework for building LLM-powered applications, enabling connections to language models, prompt management, and chaining AI components together.
+
+Running on **Linux (WSL2)** provides a stable, developer-friendly environment that integrates well with Python tooling and cloud deployment workflows.
+
+---
+
 ## Video Introduction
 
 Watch the full self-introduction here:  
