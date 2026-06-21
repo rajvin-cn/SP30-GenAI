@@ -10,3 +10,4 @@ Super 30 GenAI programme — assignments, experiments and notes.
 |---|---|---|---|
 | 01 | Cohort Slack Introduction | [README](evidence/../README.md) | [Screenshot](https://github.com/rajvin-cn/SP30-GenAI/blob/main/evidence/Intro_msg.png) |
 | 02 | Self Introduction | [README](task-02-self-intro/README.md) | [Video](https://youtu.be/krl9PvpZwEg) |
+| 03 | VS Code Setup and Python Execution | [README](task-03-vscode-python/README.md) | [Video](https://www.youtube.com/watch?v=Rv71CHqc3rw) |
